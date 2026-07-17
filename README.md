@@ -52,7 +52,7 @@ https://localhost:7133/swagger
 ```
 ## API Documentation
 
-![Swagger UI](images/swagger-home.png.jpeg)
+![Swagger UI](images/swagger-home.jpeg)
 
 ## Future Improvements
 
